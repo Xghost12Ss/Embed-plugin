@@ -2,7 +2,7 @@
 
 A plugin for Better Discord that allows you to send fancy embed messages like this:
 
-https://raw.githubusercontent.com/Xghost12Ss/Embed-plugin/main/embed_example1.png
+![Embed Example](https://raw.githubusercontent.com/Xghost12Ss/Embed-plugin/main/embed_example1.png)
 
 # Installation
 * Clone this repository
