@@ -1,25 +1,25 @@
 /**
  * @name Embeds
  * @author Xghost12S
- * @version 2.1.0
+ * @version 1.1.0
  * @description Allows you to send embeds
  * @website https://github.com/Fraserbc
- * @source https://github.com/Fraserbc/BetterDiscord-Embeds/blob/master/SendEmbeds.plugin.js
+ * @source https://github.com/Xghost12Ss/Embed-plugin/blob/main/Embed.plugin.js
  */
  
  const config = {
     info: {
-        name: 'SendEmbeds',
+        name: 'Embed',
         authors: [
             {
-                name: 'Fraser Price',
-                github_username: 'Fraserbc'
+                name: 'Xghost12S',
+                github_username: 'Xghost12Ss'
             }
         ],
-        version: '2.1.0',
+        version: '1.1.0',
         description: 'Allows you to send embeds',
-        github: 'https://github.com/Fraserbc/BetterDiscord-Embeds',
-        github_raw: 'https://raw.githubusercontent.com/Fraserbc/BetterDiscord-Embeds/master/SendEmbeds.plugin.js'
+        github: 'https://github.com/Xghost12Ss/Embed-plugin/blob/main/Embed.plugin.js',
+        github_raw: 'https://raw.githubusercontent.com/Xghost12Ss/Embed-plugin/main/Embed.plugin.js'
     }
 };
 
