@@ -1,9 +1,9 @@
 /**
- * @name Embeds
+ * @name Embed
  * @author Xghost12S
  * @version 1.1.0
  * @description Allows you to send embeds
- * @website https://github.com/Fraserbc
+ * @website https://github.com/Xghost12Ss
  * @source https://github.com/Xghost12Ss/Embed-plugin/blob/main/Embed.plugin.js
  */
  
